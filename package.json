@@ -15,7 +15,7 @@
   "main": "watchlist.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node index.ejs"
+    "start": "node watchlist.js"
   },
   "author": "",
   "license": "ISC",
